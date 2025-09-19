@@ -9,3 +9,7 @@ https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/index.
 
 
 Next Stage: Design Verification.
+
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
+See the [LICENSE] file for details.
