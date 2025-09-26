@@ -1,0 +1,2 @@
+ESP-IDF Programming Guide
+https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/index.html#esp-idf-programming-guide
