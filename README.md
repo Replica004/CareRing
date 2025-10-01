@@ -11,6 +11,7 @@ https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/index.
 Next Stage: Enviornment and Dev.board test.
 
 
+
 ##finished##
 Current Stage: Component Selection.
 
