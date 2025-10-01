@@ -1,18 +1,25 @@
 This is the ETEC 306 Project
 CareRing — Edge‑First Loneliness Inference & Connection Support System 
+************************************************************
 
-10/1/2025
-Current Stage: Design Verification, Enviornment Setup.
+**10/1/2025**
+************************************************************
+**Current Stage:** Design Verification, Enviornment Setup.
+
 *ESP32-S3 Dev.Board had been ordered
+************************************************************
+**Next Stage:** 
+
+Enviornment and Dev.board test.
+************************************************************
+**Resources:**
 
 Enviornment Setup Guide:
+
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/index.html
+************************************************************
+***Finished:***
 
-Next Stage: Enviornment and Dev.board test.
-
-
-
-##finished##
 Current Stage: Component Selection.
 
 Enviornment Setup Guide:
