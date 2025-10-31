@@ -1,0 +1,2 @@
+warning: the value 'y' is invalid for SOC_SDM_GROUPS (defined at C:/Users/Hanson/esp/v5.4.3/esp-idf\./components/soc/esp32s3/include/soc/Kconfig.soc_caps.in:850), which has type int -- assignment ignored
+warning: user value 68 on the int symbol LWIP_DHCP_OPTIONS_LEN (defined at C:/Users/Hanson/esp/v5.4.3/esp-idf/components/lwip/Kconfig:372) ignored due to being outside the active range ([69, 255]) -- falling back on defaults

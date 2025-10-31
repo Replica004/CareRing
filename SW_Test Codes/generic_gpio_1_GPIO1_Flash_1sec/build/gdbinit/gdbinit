@@ -1,0 +1,2 @@
+source C:/Esp_S3_Project/generic_gpio/build/gdbinit/symbols
+source C:/Esp_S3_Project/generic_gpio/build/gdbinit/connect

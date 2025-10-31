@@ -1,0 +1,6 @@
+source "C:/Users/Hanson/esp/v5.4.3/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/Hanson/esp/v5.4.3/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "C:/Users/Hanson/esp/v5.4.3/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/Hanson/esp/v5.4.3/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/Hanson/esp/v5.4.3/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/Hanson/OneDrive/Workplace/Wifi_S3_Project/SW_Project/Led_Strip_2/main/Kconfig.projbuild"

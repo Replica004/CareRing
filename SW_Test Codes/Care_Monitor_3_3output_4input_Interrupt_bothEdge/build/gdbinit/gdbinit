@@ -1,0 +1,2 @@
+source C:/Esp_S3_Project/Care_Monitor/build/gdbinit/symbols
+source C:/Esp_S3_Project/Care_Monitor/build/gdbinit/connect

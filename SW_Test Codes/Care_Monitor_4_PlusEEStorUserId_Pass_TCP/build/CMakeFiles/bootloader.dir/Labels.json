@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Esp_S3_Project/Care_Monitor/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "C:/Esp_S3_Project/Care_Monitor/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "C:/Esp_S3_Project/Care_Monitor/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "C:/Esp_S3_Project/Care_Monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "C:/Esp_S3_Project/Care_Monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "C:/Esp_S3_Project/Care_Monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "C:/Esp_S3_Project/Care_Monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "C:/Esp_S3_Project/Care_Monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "C:/Esp_S3_Project/Care_Monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "C:/Esp_S3_Project/Care_Monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
