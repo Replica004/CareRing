@@ -7,7 +7,7 @@ CareRing — Edge‑First Loneliness Inference & Connection Support System
 
 **Current Stage:** Enviornment and Dev.board test. 
 50% finished. including TCP/IP, general GPIO.
-need ADC, SPI test next.
+need I2S, SPI test next.
 ************************************************************
 
 **Next Stage:** 
