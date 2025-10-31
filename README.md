@@ -22,6 +22,8 @@ https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/index.
 
 
 ***Finished:***
+
+
 **10/1/2025**
 ************************************************************
 **Current Stage:** Design Verification, Enviornment Setup.
