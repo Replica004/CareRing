@@ -2,6 +2,36 @@ This is the ETEC 306 Project
 CareRing — Edge‑First Loneliness Inference & Connection Support System 
 ************************************************************
 
+**11/14/2025**
+************************************************************
+**Current Stage:** Firmware Development. Software algorithm Development.
+************************************************************
+
+
+**Next Stage:** 
+Code Structure, Hardware Structure.
+************************************************************
+
+**Resources:**
+Environment Setup Guide:
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/index.html
+************************************************************
+
+
+
+
+
+
+
+
+
+
+
+***Finished:***
+
+
+
+
 **10/31/2025**
 ************************************************************
 
@@ -21,7 +51,7 @@ https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/index.
 
 
 
-***Finished:***
+
 
 
 **10/1/2025**
